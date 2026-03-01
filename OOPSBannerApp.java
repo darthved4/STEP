@@ -1,5 +1,5 @@
 /**
-* OOPSBannerApp UC5 - OOPS Banner Application
+* OOPSBannerApp UC7 - OOPS Banner Application
 *
 * 
 * This version introduces an Inner Static Class to encapsulate
